@@ -92,7 +92,7 @@ total=len(y)
 
 
 
-QTD = 100
+QTD = 1
 newglist=[bestg[-1]]
 media=[]
 pred=50
